@@ -35,7 +35,7 @@ USER_NAME = "ckcf"         # 用户名
 UUID = "f4b21dd9-ddb6-4517-a055-cb2c2ec10b44"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "ddspo.tyweio.ddns-ip.net"                   # 域名，留空则自动获取
-CF_TOKEN = "JkKyLtJuqpTpr3mmt0r-phTyEJz4j7YNRh7lUiow"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "BFevS77QZQA2LpXHIrndMcprkFh2hBucB6w9RQqa"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
